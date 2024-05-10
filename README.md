@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on projects that involve applying analytical methods to real-world data challenges.
 
-📫 You can reach me via email at [densen1@yahoo.com](mailto: densen1@yahoo.com).
+📫 You can reach me via email at densen1@yahoo.com.
 
 ⚡ Fun fact: I love exploring various commercials and filming projects backstage!
 
