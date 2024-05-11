@@ -4,9 +4,5 @@
 
 🌱 I’m currently learning various aspects of data analytics, including databases like SQL and MySQL, data visualization tools like Google Spreadsheets and PowerBI, and analytical methods such as cohort analysis and churn analysis.
 
-💞️ I’m looking to collaborate on projects that involve applying analytical methods to real-world data challenges.
-
-📫 You can reach me via email at densen1@yahoo.com.
-
 ⚡ Fun fact: I love participating in the shooting of various commercials, movies and tv series!
 
