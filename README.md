@@ -8,5 +8,5 @@
 
 📫 You can reach me via email at densen1@yahoo.com.
 
-⚡ Fun fact: I love exploring various commercials and filming projects backstage!
+⚡ Fun fact: I love participating in the shooting of various commercials, movies and tv series!
 
