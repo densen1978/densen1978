@@ -18,7 +18,7 @@
 ⚡ Fun fact: I love participating in the shooting of various commercials, movies and TV series!
 
 <!-- Tech Section -->
-<h3 align="left">:wrench: TechStack:</h3>
+<h4 align="left">:wrench: TechStack:</h4>
 
 #### Data Storage and Management
 <div align="left">
