@@ -9,6 +9,10 @@
 </div>
 <br />
 
+![Profile Views](https://komarev.com/ghpvc/?username=densen1978&label=Profile+Views)
+
+<img align="right" width="430" height="350" src="https://cdn.dribbble.com/users/20368/screenshots/4012238/media/f75db1b2b21e31c269b74c259564d19f.gif">
+
 👋 Hi, I’m Denis, currently honing my skills in data analytics at Turing College.
 
 👀 I’m interested in leveraging data to derive meaningful insights and apply them for data-driven digital markeitng campaigns.
@@ -45,12 +49,6 @@
 #### Tools
 <div align="left">
   <img src="https://img.shields.io/static/v1?label=GitHub&message=Use%20Regularly&color=yellow&style=for-the-badge&logo=github" alt="GitHub" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/densen1978/count.svg?"  />
 </div>
 
 ###
