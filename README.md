@@ -11,7 +11,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=densen1978&label=Profile+Views)
 
-<img align="right" width="430" height="350" src="https://cdn.dribbble.com/users/20368/screenshots/4012238/media/f75db1b2b21e31c269b74c259564d19f.gif">
+<img align="right" width="530" height="450" src="https://cdn.dribbble.com/users/20368/screenshots/4012238/media/f75db1b2b21e31c269b74c259564d19f.gif">
 
 👋 Hi, I’m Denis, currently honing my skills in data analytics at Turing College.
 
