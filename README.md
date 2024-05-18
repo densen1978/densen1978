@@ -7,7 +7,7 @@
   <a href="mailto:denis.seninas@gamial.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/></a>
 </div>
-<img align="right" width="430" height="320" src="https://cdn.dribbble.com/users/20368/screenshots/4012238/media/f75db1b2b21e31c269b74c259564d19f.gif">
+<img align="right" width="430" height="300" src="https://cdn.dribbble.com/users/20368/screenshots/4012238/media/f75db1b2b21e31c269b74c259564d19f.gif">
 <br />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=densen1978&label=Profile+Views)
