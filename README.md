@@ -14,7 +14,7 @@
 
 👋 Hi, I’m Denis, currently honing my skills in data analytics at Turing College.
 
-👀 I’m interested in leveraging data to derive meaningful insights and apply them for data-driven digital markeitng campaigns.
+👀 I’m interested in leveraging data to derive meaningful insights and apply them for data-driven digital marketing campaigns.
 
 🌱 I’m currently learning various aspects of data analytics, including databases like SQL and MySQL, data visualization tools like Looker Studio, and analytical methods such as cohort analysis, CLV and RFM analysis as well as statistical methods like logistic regression.
 
